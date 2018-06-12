@@ -16,5 +16,5 @@
     </li>
 @endforeach
 </ul>
-
+{!! $users->render() !!}
 @endif
